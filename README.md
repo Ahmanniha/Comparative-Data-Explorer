@@ -1,2 +1,1 @@
-# Spreadsheet
-A spreadsheet to compare countries, cities, continents, organizations and visualize the data while comparing  them. Different from Excell, the table is already available for you.
+Comparative data platform for filtering, visualizing, and evaluating geographic and organizational indicators.
